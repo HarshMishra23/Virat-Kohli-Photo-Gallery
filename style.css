@@ -5,6 +5,7 @@
     
 }
 
+
 header{
     
     text-align: center;
@@ -12,6 +13,8 @@ header{
     padding: 30px;
     color: wheat;
     margin-bottom: 10px;
+    position: sticky;
+    top: 0;
 }
 
 #search-btn{
