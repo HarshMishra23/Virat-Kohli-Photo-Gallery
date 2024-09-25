@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+header{
+    
+    text-align: center;
+    background-color: blue;
+    padding: 30px;
+    color: wheat;
+    margin-bottom: 10px;
+}
+
+#search-btn{
+    width: 400px;
+    padding: 7px;
+   
+}
+
+span #para img{
+    margin-left: 5px;
+}
+
