@@ -22,9 +22,9 @@ header{
     top: 0;
 }
 
-#search-btn{
-    width: 400px;
-    padding: 7px;
+.search-bar{
+    width: 350px;
+    padding: 5px;
    
 }
 
